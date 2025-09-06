@@ -1,0 +1,22 @@
+{
+  "name": "Protege360 - Tu información vale oro… protégela -",
+  "short_name": "Protege360",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d47a1",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/assets/img/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+       "src": "/assets/img/apple-touch-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
