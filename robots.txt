@@ -3,12 +3,11 @@ User-agent: *
 Disallow: /admin/
 Disallow: /login/
 Disallow: /dashboard/
-Disallow: /*?*
 Disallow: /cgi-bin/
 Disallow: /*?sessionid=
 
 # Permitir el resto del sitio público
 Allow: /
 
-# Sitemap (actualiza si está en otra ubicación)
+# Sitemap
 Sitemap: https://protege360.net/sitemap.xml
